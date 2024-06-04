@@ -1,0 +1,5 @@
+﻿  ATMsystem.cpp
+C:\Users\Houssem\source\repos\ATMsystem\ATMsystem\ATMsystem.cpp(59,35): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Houssem\source\repos\ATMsystem\ATMsystem\ATMsystem.cpp(83,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Houssem\source\repos\ATMsystem\ATMsystem\ATMsystem.cpp(204,1): warning C4715: 'TransformEnumToAmount': not all control paths return a value
+  ATMsystem.vcxproj -> C:\Users\Houssem\source\repos\ATMsystem\x64\Debug\ATMsystem.exe
